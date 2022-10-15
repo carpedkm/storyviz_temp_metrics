@@ -1,0 +1,6 @@
+.vscode-server/
+.cache/
+.nv/
+.ssh/
+.ipython/
+.gnupg/

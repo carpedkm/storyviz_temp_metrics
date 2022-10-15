@@ -1,0 +1,5 @@
+[user]
+	email = flytodk@gmail.com
+	name = carpedkm
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/node /tmp/vscode-remote-containers-9c7c4cc7ae05df944eceb5f2ff3007317260dd33.js $*; }; f"
